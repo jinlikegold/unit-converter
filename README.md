@@ -10,7 +10,8 @@ This is a solo JS project I built, given just a design spec and the information 
 - adding an event listener with multiple nested functions
 - template strings and innerHTML
 - passing parameters into functions
-- input.value
+- working with input.value
+- rounding numbers with toFixed
 - CSS design with multiple divs
 
 ## Reflection
