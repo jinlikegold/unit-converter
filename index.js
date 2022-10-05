@@ -34,8 +34,8 @@ function volumeConversion(unit) {
 function massConversion(unit) {
     let toPounds = unit * 2.204
     let toKilos = unit / 2.204
-    kiloAndLbs.innerHTML = `<p> ${unit} kilograms = ${toPounds.toFixed(3)} pounds</p>
-    <p>${unit} pounds = ${toKilos.toFixed(3)} kilograms</p>`
+    kiloAndLbs.innerHTML = `<p> ${unit} kilos = ${toPounds.toFixed(3)} pounds</p>
+    <p>${unit} pounds = ${toKilos.toFixed(3)} kilos</p>`
 }
 
 
